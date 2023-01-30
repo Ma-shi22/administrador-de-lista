@@ -2,6 +2,7 @@
 Aplicación que permite administrar listas de alumnos
 
 Consigna mínima:
+
 Es un formulario que sirve para insertar registros de alumnos en una tabla.
 Posue una funcionalidad parar eliminar cualquier registro de la tabla, esté en la posición que sea. 
 La pantalla es responsive (resolución de escritorio y resolución mobile).
